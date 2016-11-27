@@ -1,13 +1,10 @@
 {
     "files": [
-        "src/main.ts"
+        "src/main.ts",
+        "src/greet.ts"
     ],
     "compilerOptions": {
         "noImplicitAny": true,
-        "target": "es5",
-        "module": "amd",
-        "sourceMap": false,
-        "outDir": "./",
-        "moduleResolution": "classic"
+        "target": "es5"
     }
 }
