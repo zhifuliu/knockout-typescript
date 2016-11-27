@@ -1,0 +1,13 @@
+{
+    "files": [
+        "src/main.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "module": "amd",
+        "sourceMap": false,
+        "outDir": "./",
+        "moduleResolution": "classic"
+    }
+}
