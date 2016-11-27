@@ -1,6 +1,6 @@
 declare var require: any;
 require.config({
     paths: {
-        "knockout": "externals/knockout-3.4.1"
+        "knockout": "src/bower_modules/knockout/dist/knockout"
     }
 })
