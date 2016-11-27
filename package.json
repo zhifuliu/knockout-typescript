@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/zhifuliu/knockout-typescript/issues"
   },
-  "homepage": "https://github.com/zhifuliu/knockout-typescript#readme"
+  "homepage": "https://github.com/zhifuliu/knockout-typescript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.3",
+    "typescript": "^2.0.10"
+  }
 }
