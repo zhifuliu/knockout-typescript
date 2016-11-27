@@ -4,7 +4,7 @@ src/bower_modules/
 .idea/
 
 # Don't track build output
-dist/
+!dist/
 
 .gulp-tsc-tmp-*
 gulp-tsc-tmp-*
