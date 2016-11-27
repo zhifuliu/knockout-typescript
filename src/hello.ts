@@ -1,4 +1,4 @@
-import * as ko from "knockout";
+import ko = require("knockout");
 
 class HelloViewModel {
     language: KnockoutObservable<string>
